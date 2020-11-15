@@ -1,10 +1,10 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: 'Quicksand', sans-serif;
     display: flex;
     justify-content: center;
@@ -12,15 +12,20 @@ body{
     flex-direction: column;
     color: black;
     height: 100vh;
+
+
 }
-#time{
+
+#time {
     font-size: 8rem;
+
 }
-h1{
+
+h1 {
     margin-bottom: 16px;
 }
-h2{
+
+h2 {
     font-size: 3rem;
-    opacity: .5;
-    margin-bottom: 15px;
+    opacity: 0.5;
 }
